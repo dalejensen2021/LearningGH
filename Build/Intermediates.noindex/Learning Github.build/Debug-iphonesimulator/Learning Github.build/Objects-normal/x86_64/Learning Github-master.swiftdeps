@@ -1,6 +1,7 @@
 version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
 options: "2d8412e39c0db397babf0403282ad3a3"
-build_time: [1626365966, 34760000]
+build_time: [1626367200, 596749000]
 inputs:
-  "/Users/adjensen/Swift Projects/Learning Github/Learning Github/ContentView.swift": [1626365962, 729136548]
+  "/Users/adjensen/Swift Projects/Learning Github/Learning Github/ContentView.swift": [1626366706, 351525483]
+  "/Users/adjensen/Swift Projects/Learning Github/Learning Github/MyModel.swift": [9223372036, 854775807]
   "/Users/adjensen/Swift Projects/Learning Github/Learning Github/Learning_GithubApp.swift": [1626365962, 726162273]
